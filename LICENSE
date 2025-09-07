@@ -14,11 +14,14 @@ copies or substantial portions of the Software.
 
 This software includes or adapts code from the following sources:
 
-- HAETAE (https://kpqc.cryptolab.co.kr/haetae): Implementation accompanying the paper (https://eprint.iacr.org/2023/624).
-While the code is publicly available, no explicit license has been provided. 
-We use it strictly for academic and non-commercial research purposes.
+- HAETAE (https://kpqc.cryptolab.co.kr/haetae): Implementation accompanying the paper. 
+  Distributed under the MIT License.
+  See the original LICENSE file for details (https://kpqc.cryptolab.co.kr/haetae).
 
-- Dilithium (https://github.com/pq-crystals/dilithium): Released under a dual license—either the Creative Commons Zero (CC0) public domain dedication or the Apache 2.0 License. Users may choose either license according to their needs. See the original LICENSE file for details.
+- Dilithium (https://github.com/pq-crystals/dilithium): Released under a dual
+  license—either the Creative Commons Zero (CC0) public domain dedication or the
+  Apache 2.0 License. Users may choose either license according to their needs.
+  See the original LICENSE file for details.
 
 All portions of these projects used or modified here are subject to their original licenses.
 
