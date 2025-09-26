@@ -1,0 +1,1 @@
+gcc  ntt.c poly.c reduce.c main.c -o main
